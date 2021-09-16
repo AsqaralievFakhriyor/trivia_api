@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import random
 
-from backend.flaskr.models import setup_db, Question, Category
+from backend.models import setup_db, Question, Category
 
 
 
